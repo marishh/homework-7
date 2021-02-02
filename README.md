@@ -1,1 +1,1 @@
-# homework-7
+# Small animation using CSS
